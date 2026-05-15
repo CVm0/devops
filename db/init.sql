@@ -10,6 +10,7 @@ CREATE TABLE IF NOT EXISTS productos (
 );
 
 INSERT INTO productos (nombre, descripcion, precio, stock) VALUES
+
 ('Camiseta Algodón Premium', 'Algodón 100%, mangas cortas, varios colores', 9990, 25),
 ('Jeans Clásicos', 'Corte recto, tela denim azul', 24990, 12),
 ('Chaqueta Impermeable', 'Con capucha, resistente al agua, talla única', 35990, 8),
