@@ -9,7 +9,6 @@ CREATE TABLE IF NOT EXISTS productos (
     stock INT NOT NULL
 );
 
-// Agregar algunos productos de ejemplo
 INSERT INTO productos (nombre, descripcion, precio, stock) VALUES
 ('Camiseta Algodón Premium', 'Algodón 100%, mangas cortas, varios colores', 9990, 25),
 ('Jeans Clásicos', 'Corte recto, tela denim azul', 24990, 12),
